@@ -5,6 +5,7 @@ result
 runtime/grammars
 .DS_Store
 b6_*/
+b6_*
 *~
 ~*/
 
