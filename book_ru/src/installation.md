@@ -1,4 +1,20 @@
-<!-- Translated by @vBuresh with DeepSeekChat -->  
++++
+date = 2025-07-02T04:14:54-08:00 
+title = "Установка Helix"
+subtitle = "— руководство пользователя 
+description = "Рекомендации по установке Helix для Linux, macOS и Windows. Проверено для версий 23.x."
+summary = """\
+В этом разделе вы узнаете:  
+✔ Как установить Helix через менеджер пакетов.  
+✔ Как собрать из исходников.  
+✔ Как проверить работоспособность."""
+weight = 10  # Первый раздел в изучении 
+lastmod = 2025-07-24 
+[params] 
+  translator = "@vBuresh & DeepSeek Chat"
+  original_url = "https://github.com/helix-editor/helix"  
+tags = ["helix", "документация", "перевод"] 
++++
 
 # Installation | Установка  
 
